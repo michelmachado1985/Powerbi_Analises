@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Profissional de Tecnologia com **mais de 8 anos de experiência** em Banco de Dados, Engenharia de Dados e Business Intelligence. Atuo no desenvolvimento de soluções analíticas escaláveis, otimização de consultas e construção de pipelines de dados (ETL/ELT) para ambientes transacionais e analíticos de alto volume.
+Profissional de Tecnologia com **mais de 4 anos de experiência** em Banco de Dados, Engenharia de Dados e Business Intelligence. Atuo no desenvolvimento de soluções analíticas escaláveis, otimização de consultas e construção de pipelines de dados (ETL/ELT) para ambientes transacionais e analíticos de alto volume.
 
 Ao longo da minha trajetória, participei de projetos envolvendo:
 
