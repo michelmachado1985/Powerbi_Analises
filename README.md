@@ -28,9 +28,9 @@ Atualmente concentro meus estudos e projetos práticos em:
 
 👉 **Engenharia de Dados na Nuvem** (Microsoft Fabric, Azure)
 
-👉 **Big Data e Processamento Distribuído** (Spark, Databricks)
+👉 **Big Data e Processamento Distribuído** (Spark)
 
-👉 **Automação de Pipelines** (Python, Airflow)
+👉 **Automação de Pipelines** (Python)
 
 Buscando construir soluções orientadas a dados que gerem **insights estratégicos** e **eficiência operacional** para os negócios.
 
